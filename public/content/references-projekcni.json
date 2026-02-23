@@ -1,0 +1,1169 @@
+[
+  {
+    "id": "p1",
+    "title": "Odběr a dávkování Cl₂ – Ostravské vodovody a kanalizace a.s., ÚV Ostrava Stará Bělá",
+    "details": "Realizace 1993 · zdravotní zabezpečení chlorem, výkon 90 g·h⁻¹ Cl₂, ruční provoz",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p2",
+    "title": "Výroba ClO₂, dávkování Cl₂ a ClO₂ – SmVaK a.s., ÚV Podhradí u Vítkova",
+    "details": "Realizace 1994 · předoxidace a zdravotní zabezpečení chlorem i chlordioxidem, výkon 13 500 g·h⁻¹ ClO₂, 17 500 g·h⁻¹ Cl₂, automatický provoz",
+    "imageUrl": "/assets/reference/uv-podhradi.jpg",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p3",
+    "title": "Výroba ClO₂, dávkování Cl₂ a ClO₂ – VAS divize Žďár nad Sázavou, ÚV Žďár nad Sázavou",
+    "details": "Realizace 1994 · zdravotní zabezpečení chlordioxidem, výkon 1500 g·h⁻¹ ClO₂, automatický provoz",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p4",
+    "title": "Výroba ClO₂, dávkování Cl₂ a ClO₂ – VAS divize Žďár nad Sázavou, ÚV Mostiště",
+    "details": "Realizace 1994 · předoxidace a zdravotní zabezpečení, výkon 1500 g·h⁻¹ ClO₂, 2000 g·h⁻¹ Cl₂, automatický provoz",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p5",
+    "title": "Odběr a dávkování Cl₂ – VaK Jižní Čechy a.s., ÚV Plav",
+    "details": "Realizace 1994 · zdravotní zabezpečení chlorem, výkon 2×10 000 g·h⁻¹ Cl₂, automatický provoz",
+    "imageUrl": "/assets/reference/ref-plav-budova.jpg",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p6",
+    "title": "Výroba ClO₂, dávkování Cl₂ a ClO₂ – SmVaK a.s., ÚV Nová Ves u Frýdlantu n. O.",
+    "details": "Realizace 1995 · výkon 9 500 g·h⁻¹ ClO₂, 2×10 000 g·h⁻¹ Cl₂, velkosklad NaClO₂ 3×10 m³",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p7",
+    "title": "Výroba ClO₂, dávkování Cl₂ a ClO₂ – BVK a.s., ÚV Pisárky Brno",
+    "details": "Realizace 1995 · výkon 4500 g·h⁻¹ ClO₂, 10 000+1080 g·h⁻¹ Cl₂, velkosklad NaClO₂ 2×14 m³",
+    "imageUrl": "/assets/reference/uv-pisarky.jpg",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p8",
+    "title": "Výroba ClO₂, dávkování Cl₂ a ClO₂ – Nová Huť a.s., ÚV Středojemná",
+    "details": "Realizace 1995 · výkon 1 500 g·h⁻¹ ClO₂, 90 g·h⁻¹ Cl₂, automatický provoz",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p9",
+    "title": "Odběr a dávkování Cl₂ – Nová Huť a.s., ÚV Šenovská",
+    "details": "Realizace 1995 · výkon 30 g·h⁻¹ Cl₂, ruční provoz",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p10",
+    "title": "Odběr a dávkování Cl₂ – Nová Huť a.s., ÚV Frýdecká",
+    "details": "Realizace 1995 · výkon 30 g·h⁻¹ Cl₂, ruční provoz",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p11",
+    "title": "Odběr a dávkování Cl₂ – obecní vodovod Horní Lištná",
+    "details": "Realizace 1995 · výkon 25 g·h⁻¹ Cl₂, ruční provoz",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p12",
+    "title": "Výroba ClO₂, dávkování Cl₂ a ClO₂ – VAS divize Žďár n. S., VDJ Žďár nad Sázavou",
+    "details": "Realizace 1996 · výkon 1 500 g·h⁻¹ ClO₂, 400 g·h⁻¹ Cl₂, automatický provoz",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p13",
+    "title": "Odběr a dávkování Cl₂ – Pražské vodárny s.p., ÚV Želivka",
+    "details": "Realizace 1996 · desinfekce prací vody, výkon 2000 g·h⁻¹ Cl₂, automatický provoz",
+    "imageUrl": "/assets/reference/uv-zelivka.jpg",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p14",
+    "title": "Výroba ClO₂, dávkování Cl₂ a ClO₂ – Vírský oblastní vodovod, ÚV Švařec",
+    "details": "Realizace 1999 · výkon 2×4500 g·h⁻¹ ClO₂, 3000 g·h⁻¹ Cl₂, velkosklad NaClO₂ 3×10 m³",
+    "imageUrl": "/assets/reference/uv-svarec.jpg",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p15",
+    "title": "Výroba ClO₂, dávkování Cl₂ a ClO₂ – VAS divize Žďár n. S., ÚV Vír",
+    "details": "Realizace 1997 · výkon 1500 g·h⁻¹ ClO₂, automatický provoz",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p16",
+    "title": "Výroba ClO₂ a dávkování ClO₂ – BVK a.s., ČS Kaštanová Brno",
+    "details": "Realizace 1997 · na bázi HCl + NaClO₂, výkon 150 g·h⁻¹ ClO₂ – první tohoto druhu v ČR",
+    "imageUrl": "/assets/reference/clo2-diox.jpg",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p17",
+    "title": "Spouštění úpraven vod Thalkha a Gamhalia – Egypt",
+    "details": "Realizace 1997 · 400 a 600 l·s⁻¹, zdravotní zabezpečení chlorem, automatický provoz",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p18",
+    "title": "Odběr a dávkování Cl₂ – Pražské vodárny s.p., ÚV Želivka",
+    "details": "Realizace 1997 · rekonstrukce, výkon 3×30 kg·h⁻¹ Cl₂, automatický provoz",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p19",
+    "title": "Výroba ClO₂, dávkování Cl₂ a ClO₂ – Nová Huť a.s., Úpravna užitkové vody",
+    "details": "Realizace 1999 · výkon 5000 g·h⁻¹ ClO₂, 500 g·h⁻¹ Cl₂, automatický provoz",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p20",
+    "title": "Odběr a dávkování Cl₂ – PVS a.s., ÚV Želivka",
+    "details": "Realizace 1999 · rekonstrukce na podtlakový systém, odběr z 12 ks sudů, výkon 60 kg·h⁻¹ Cl₂",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p21",
+    "title": "Odběr a dávkování Cl₂ – BVK a.s., VDJ Palacký Vrch Brno",
+    "details": "Realizace 2000 · výkon 2000 g·h⁻¹ Cl₂, ruční provoz",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p22",
+    "title": "Výroba ClO₂, dávkování Cl₂ a ClO₂ – SmVaK a.s., ÚV Vyšní Lhoty",
+    "details": "Realizace 2001 · výkon 1500 g·h⁻¹ ClO₂, 400 g·h⁻¹ Cl₂, automatický provoz",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p23",
+    "title": "Dávkování Cl₂ – VAS divize Žďár n. S., ÚV Vír",
+    "details": "Realizace 2002 · výkon 1000 g·h⁻¹ Cl₂, automatický provoz",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p24",
+    "title": "Dávkování Cl₂ – BVK a.s., ÚV Švařec",
+    "details": "Realizace 2002 · předoxidace chlorem, výkon 1000 g·h⁻¹ Cl₂, automatický provoz",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p25",
+    "title": "Odběr a dávkování Cl₂ – VHS Sokolov, ÚV Horka",
+    "details": "Realizace 2003 · výkon 2000 g·h⁻¹ Cl₂, automatický provoz",
+    "imageUrl": "/assets/reference/uv-horka.jpg",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p26",
+    "title": "Odběr a dávkování Cl₂ – CHEVAK Cheb a.s., ÚV Mariánské Lázně",
+    "details": "Realizace 2003 · FTWO jako generální dodavatel, výkon 2×400 g·h⁻¹ Cl₂, automatický provoz",
+    "imageUrl": "/assets/reference/uv-marianske-lazne.jpg",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p27",
+    "title": "Odběr a dávkování NaClO – PVS a.s., ÚV Želivka",
+    "details": "Realizace 2003 · FTWO jako generální dodavatel technologie, výkon 0,6 l·h⁻¹ NaClO, automatický provoz",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p28",
+    "title": "Odběr a dávkování NaClO – SčVK a.s., ÚV Most-Velebudice",
+    "details": "Realizace 2004 · FTWO jako generální dodavatel, výkon 2×2,5 l·h⁻¹ NaClO, ruční provoz",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p29",
+    "title": "Detekce úniku Cl₂ do ovzduší – PVS a.s., ÚV Želivka",
+    "details": "Realizace 2004",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p30",
+    "title": "Doplnění technologie chlorového hospodářství – VOV, ÚV Švařec",
+    "details": "Realizace 2006 · výkon 1500 g·h⁻¹ ClO₂, 400 g·h⁻¹ Cl₂, měření zbytkového chloru",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p31",
+    "title": "Skladování, odběr a dávkování Cl₂ – Vodárna Plzeň a.s., ÚV Plzeň",
+    "details": "Realizace 2006 · FTWO jako GD a HIP, výkon 2×10 000 g·h⁻¹ Cl₂, automatický provoz",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p32",
+    "title": "Rekonstrukce odběru chloru – VAS divize Žďár n. S., ÚV Mostiště",
+    "details": "Realizace 2006",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p33",
+    "title": "Rekonstrukce odběru chloru – SmVaK a.s., ÚV Podhradí a Nová Ves u Frýdlantu",
+    "details": "Realizace 2006",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p34",
+    "title": "Zdravotní zabezpečení TUV ClO₂ – FN Plzeň, gynekologicko-porodnická klinika",
+    "details": "Realizace 2007 · eliminace bakterie Legionella",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p35",
+    "title": "Zdravotní zabezpečení NaClO – Doubravník, VOV",
+    "details": "Realizace 2007",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p36",
+    "title": "Rekonstrukce VDJ Sylván – Vodárna Plzeň a.s.",
+    "details": "Realizace 2007 · FTWO jako GD a HIP, automatický provoz, detekce úniku chloru, dodávka PLC a SW",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p37",
+    "title": "Rekonstrukce ÚV Lednice za provozu – VaK Břeclav a.s.",
+    "details": "Realizace 2007–2008 · výroba ClO₂ mokrou cestou z HCl a NaClO₂, skladování, měření a detekce úniku",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p38",
+    "title": "Detekce úniku Cl₂ – DIAMO s.p. Stráž pod Ralskem",
+    "details": "Realizace 2007 · 18 měřících míst, měření tlaku plynného/kapalného chloru",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p39",
+    "title": "Detekce úniku Cl₂ – VaK Hodonín a.s., ÚV Moravská Nová Ves",
+    "details": "Realizace 2007",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p40",
+    "title": "Odběr a dávkování NaClO – VDJ Měřín",
+    "details": "Realizace 2007",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p41",
+    "title": "Odběr a dávkování Cl₂ – Vodárna Plzeň a.s., VDJ Lobzy a VDJ Vinice",
+    "details": "Realizace 2008",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p42",
+    "title": "Odběr a dávkování Cl₂ a NaClO – VaK Břeclav a.s., ČS Mušlov a VDJ Březí",
+    "details": "Realizace 2008",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p43",
+    "title": "Odběr a dávkování Cl₂ – 1.JVS a.s., ÚV České Budějovice",
+    "details": "Realizace 2008 · automatický provoz, detekce úniku chloru, měření chloru",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p44",
+    "title": "Dávkování NaClO – VDJ Skalná, CHEVAK Cheb a.s.",
+    "details": "Realizace 2011",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p45",
+    "title": "Dávkování NaClO – CHEVAK Cheb a.s.",
+    "details": "Realizace 2011",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p46",
+    "title": "Skladování, přečerpávání a dávkování NaClO – VOSS Sokolov, ÚV Janov",
+    "details": "Realizace 2011",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p47",
+    "title": "Měření zbytkového chloru – Šachta Hraničná, CHEVAK Cheb a.s.",
+    "details": "Realizace 2012",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p48",
+    "title": "Dávkování NaClO – VDJ Ján 1+2, CHEVAK Cheb a.s.",
+    "details": "Realizace 2012",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p49",
+    "title": "Dávkování NaClO – VDJ Luby, CHEVAK Cheb a.s.",
+    "details": "Realizace 2012",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p50",
+    "title": "Dávkování NaClO – VDJ Pelhřimov, CHEVAK Cheb a.s.",
+    "details": "Realizace 2012",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p51",
+    "title": "Dávkování NaClO – VDJ Velký Luh, CHEVAK Cheb a.s.",
+    "details": "Realizace 2012",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p52",
+    "title": "Dávkování NaClO – ČS Nový Kostel, CHEVAK Cheb a.s.",
+    "details": "Realizace 2012",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p53",
+    "title": "Dávkování NaClO – VDJ Vojtanov a Šachta Stará Anna, CHEVAK Cheb a.s.",
+    "details": "Realizace 2012",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p54",
+    "title": "Dávkování Cl₂ a ClO₂ – VAS divize Žďár n. S., ÚV Mostiště",
+    "details": "Realizace 2012–2014 · rekonstrukce za provozu ÚV",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p55",
+    "title": "Dávkování NaClO – CHEVAK Cheb a.s.",
+    "details": "Realizace 2013",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p56",
+    "title": "Dávkování NaClO – VDJ Anna + Luby, CHEVAK Cheb a.s.",
+    "details": "Realizace 2014",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p57",
+    "title": "Dávkování NaClO – VDJ Brtná, CHEVAK Cheb a.s.",
+    "details": "Realizace 2014",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p58",
+    "title": "Dávkování NaClO – VDJ Lipová, obec Lipová",
+    "details": "Realizace 2014",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p59",
+    "title": "Odběr a dávkování chloru – ÚV Strašice, VOSS Sokolov",
+    "details": "Realizace 2014",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p60",
+    "title": "Rekonstrukce výroby a dávkování ClO₂ – VAS divize Žďár n. S., ÚV Mostiště",
+    "details": "Realizace 2015",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p61",
+    "title": "Dávkování NaClO – VDJ Modřín + Háj + Studánka + Hranice + Odrava + Hůrka, CHEVAK",
+    "details": "Realizace 2015",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p62",
+    "title": "Rekonstrukce výroby a dávkování ClO₂ – VAS divize Žďár n. S., VDJ Žďár n. S.",
+    "details": "Realizace 2016",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p63",
+    "title": "Dávkování NaClO – VDJ Krásné + Antonínova Výšina, PK Zádub, CHEVAK",
+    "details": "Realizace 2016",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p64",
+    "title": "Rekonstrukce výroby a dávkování ClO₂ – ÚV Švařec a VDJ Čebín, VOV a.s.",
+    "details": "Realizace 2018",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p65",
+    "title": "Rekonstrukce dávkování chloru – ÚV Horka, VOSS Sokolov s.r.o.",
+    "details": "Realizace 2018",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p66",
+    "title": "Dávkování NaClO – VDJ Těšov + Kynžvart + Hůrka + Libá + Pelhřimov + Vojtanov, CHEVAK",
+    "details": "Realizace 2017",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p67",
+    "title": "Rekonstrukce výroby a dávkování ClO₂ – VOV, ÚV Švařec a VDJ Čebín",
+    "details": "Realizace 2018",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p68",
+    "title": "Projekt pro SP – ÚV Plzeň, rekonstrukce vápenného hospodářství",
+    "details": "Realizace 2018",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p69",
+    "title": "Rekonstrukce dávkování chloru – ÚV Nebanice a Mar. Lázně, CHEVAK Cheb a.s.",
+    "details": "Realizace 2019",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p70",
+    "title": "Dávkování roztoku ClO₂ – ÚV Lednice, VaK Břeclav",
+    "details": "Realizace 2019",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p71",
+    "title": "Měření zbytkového chloru – ČS Perná1, VaK Břeclav",
+    "details": "Realizace 2019",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p72",
+    "title": "Rekonstrukce dávkování Cl₂ a ClO₂, detekce úniku – ArcelorMittal Ostrava (Liberty)",
+    "details": "Realizace 2019 · Chlorovna Šenovská, Chlorovna u Středojemné válcovny, Úpravna užitkové vody",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p73",
+    "title": "Rekonstrukce dávkování Cl₂ – ÚV Mostiště a ÚV Vír, VAS Žďár n. S.",
+    "details": "Realizace 2019",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p74",
+    "title": "Měření zbytkového chloru – VDJ Klentnice, VaK Břeclav",
+    "details": "Realizace 2020",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p75",
+    "title": "Měření zbytkového chloru – ČS a VDJ Valtice, VaK Břeclav",
+    "details": "Realizace 2021",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p76",
+    "title": "Rekonstrukce dávkování chloru – ÚV Mariánské Lázně, CHEVAK Cheb a.s.",
+    "details": "Realizace 2022",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p77",
+    "title": "Rekonstrukce dávkování chloru – ÚV Nebanice, CHEVAK Cheb a.s.",
+    "details": "Realizace 2022",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p78",
+    "title": "Rekonstrukce výroby a dávkování ClO₂ – ÚV Vír, SVaK Žďársko",
+    "details": "Realizace 2022",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p79",
+    "title": "Rekonstrukce dávkování Cl₂ a ClO₂ – VDJ Žďár n. S., SVaK Žďársko",
+    "details": "Realizace 2022",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p80",
+    "title": "Rekonstrukce měření pH a zbytkového chloru – ÚV Leskovec n. M., VaK Bruntál a.s.",
+    "details": "Realizace 2022",
+    "category": "Zdravotní zabezpečení pitné vody"
+  },
+  {
+    "id": "p81",
+    "title": "Odběr a dávkování HTH – Rehabilitační ústav Hrabyně u Opavy, bazén",
+    "details": "Realizace 1994 · výkon 2,5 l·h⁻¹, automatický provoz",
+    "category": "Jiné aplikace"
+  },
+  {
+    "id": "p82",
+    "title": "Odběr a dávkování NaClO, Na₂CO₃ a Al₂(SO₄)₃ – Vlachovice, koupaliště",
+    "details": "Realizace 1996 · výkon 1 l·h⁻¹, automatický provoz",
+    "category": "Jiné aplikace"
+  },
+  {
+    "id": "p83",
+    "title": "Odběr a dávkování Fe₂(SO₄)₃ – VAS divize Znojmo, ČOV Znojmo",
+    "details": "Realizace 1999 · stáčecí zařízení z cisteren, výkon 79 l·h⁻¹, velkosklad 2×10 m³",
+    "category": "Jiné aplikace"
+  },
+  {
+    "id": "p84",
+    "title": "Odběr a dávkování NaOH, Fe₂(SO₄)₃, KMnO₄ a PAA – VaK Hodonín, ÚV Koryčany",
+    "details": "Realizace 1999 · výkon 4×25 l·h⁻¹, automatický provoz",
+    "category": "Jiné aplikace"
+  },
+  {
+    "id": "p85",
+    "title": "Detekce úniku O₃ do ovzduší – PVS a.s., ÚV Želivka",
+    "details": "Realizace 2004",
+    "category": "Jiné aplikace"
+  },
+  {
+    "id": "p86",
+    "title": "Odběr a dávkování Al₂(SO₄)₃ – SčVK a.s., ÚV Most-Velebudice",
+    "details": "Realizace 2004 · FTWO jako GD, výkon 2×25 l·h⁻¹, ruční provoz",
+    "imageUrl": "/assets/reference/uv-velebudice.jpg",
+    "category": "Jiné aplikace"
+  },
+  {
+    "id": "p87",
+    "title": "Skladování a dávkování chloridu amonného – SčVK a.s., ÚV Hradiště",
+    "details": "Realizace 2005",
+    "category": "Jiné aplikace"
+  },
+  {
+    "id": "p88",
+    "title": "Skladování a dávkování chloridu amonného a Albaphos – SčVK a.s., ÚV III. Mlýn",
+    "details": "Realizace 2005",
+    "category": "Jiné aplikace"
+  },
+  {
+    "id": "p89",
+    "title": "Skladování a dávkování Albaphos – SčVK a.s., ÚV Holedeč",
+    "details": "Realizace 2005",
+    "category": "Jiné aplikace"
+  },
+  {
+    "id": "p90",
+    "title": "Rekonstrukce ÚV Lednice za provozu – VaK Břeclav a.s.",
+    "details": "Realizace 2007–2008 · velkosklad 2×(20+5) m³ NaOH, 2×(20+5) m³ Fe₂(SO₄)₃, sklad 2×5 m³ KMnO₄",
+    "category": "Jiné aplikace"
+  },
+  {
+    "id": "p91",
+    "title": "Detekce úniku O₃ do ovzduší – PVS a.s., ÚV Želivka",
+    "details": "Realizace 2009",
+    "category": "Jiné aplikace"
+  },
+  {
+    "id": "p92",
+    "title": "Likvidace úniku Cl₂ – SmVaK a.s., ÚV Vyšní Lhoty, Nová Ves, Podhradí",
+    "details": "Realizace 2008–2009 · FTWO jako HIP, potrubní rozvody neutralizační stanice",
+    "category": "Jiné aplikace"
+  },
+  {
+    "id": "p93",
+    "title": "Dávkování NaOH – ČS Jindřichov, CHEVAK Cheb a.s.",
+    "details": "Realizace 2011",
+    "category": "Jiné aplikace"
+  },
+  {
+    "id": "p94",
+    "title": "Výroba roztoku a dávkování NaOH – ÚV Uhelná, SČVK a.s.",
+    "details": "Realizace 2011",
+    "category": "Jiné aplikace"
+  },
+  {
+    "id": "p95",
+    "title": "Skladování a dávkování KMnO₄ – VOSS Sokolov, ÚV Janov",
+    "details": "Realizace 2011",
+    "category": "Jiné aplikace"
+  },
+  {
+    "id": "p96",
+    "title": "Dávkování Na₂CO₃ – VDJ Pelhřimov, CHEVAK Cheb a.s.",
+    "details": "Realizace 2012",
+    "category": "Jiné aplikace"
+  },
+  {
+    "id": "p97",
+    "title": "Dávkování síranu amonného – ÚV Malešov, SČVK a.s.",
+    "details": "Realizace 2013",
+    "category": "Jiné aplikace"
+  },
+  {
+    "id": "p98",
+    "title": "Dávkování síranu hlinitého a KMnO₄ – ÚV Strašice, VOSS Sokolov",
+    "details": "Realizace 2014",
+    "category": "Jiné aplikace"
+  },
+  {
+    "id": "p99",
+    "title": "Skladování a dávkování roztoku KMnO₄ – ÚV Lednice, VaK Břeclav",
+    "details": "Realizace 2019",
+    "category": "Jiné aplikace"
+  },
+  {
+    "id": "p100",
+    "title": "Rekonstrukce dávkování Metaqua – elektro část, SČS Teplice",
+    "details": "Realizace 2020–2021",
+    "category": "Jiné aplikace"
+  },
+  {
+    "id": "p101",
+    "title": "Dávkování kyseliny fosforečné – ÚV Hamr, Vodovod Hamr Třeboň",
+    "details": "Realizace 2022",
+    "category": "Jiné aplikace"
+  },
+  {
+    "id": "p102",
+    "title": "Dávkování síranu amonného – ÚV Bedřichov, SČS Teplice",
+    "details": "Realizace 2023",
+    "category": "Jiné aplikace"
+  },
+  {
+    "id": "p103",
+    "title": "Dávkování síranu hlinitého – ÚV Bedřichov, SČS Teplice",
+    "details": "Realizace 2023",
+    "category": "Jiné aplikace"
+  },
+  {
+    "id": "p104",
+    "title": "Dávkování magnaflock – ÚV Bedřichov, SČS Teplice",
+    "details": "Realizace 2023",
+    "category": "Jiné aplikace"
+  },
+  {
+    "id": "p105",
+    "title": "Dávkování síranu železitého – ÚV Mariánské Lázně, CHEVAK Cheb",
+    "details": "Realizace 2024–2025",
+    "category": "Jiné aplikace"
+  },
+  {
+    "id": "p106",
+    "title": "Odběr a dávkování CO₂ – VaK Jižní Čechy a.s., ÚV Plav",
+    "details": "Realizace 1994 · výkon 2×200 kg·h⁻¹ CO₂, automatický provoz",
+    "imageUrl": "/assets/reference/uv-plav-co2.jpg",
+    "category": "Ztvrzování vody"
+  },
+  {
+    "id": "p107",
+    "title": "Odběr a dávkování CO₂ – SčVK a.s., ÚV Hřensko",
+    "details": "Realizace 1996 · výkon 125 kg·h⁻¹ CO₂, automatický provoz",
+    "category": "Ztvrzování vody"
+  },
+  {
+    "id": "p108",
+    "title": "Odběr a dávkování O₂ – Salicia spol. s r.o. Domašov n. Bystřicí",
+    "details": "Realizace 1996 · výkon 100 g·h⁻¹ O₂, ruční provoz",
+    "category": "Ztvrzování vody"
+  },
+  {
+    "id": "p109",
+    "title": "Dávkování CO₂ – Vodárna Plzeň a.s.",
+    "details": "Realizace 2000 · injektor CO₂ s předehříváním, výkon 86 kg·h⁻¹ CO₂",
+    "category": "Ztvrzování vody"
+  },
+  {
+    "id": "p110",
+    "title": "Dávkování CO₂ – 1.JVS a.s., ÚV České Budějovice",
+    "details": "Realizace 2008 · ruční provoz",
+    "category": "Ztvrzování vody"
+  },
+  {
+    "id": "p111",
+    "title": "Dávkování CO₂ – VAS divize Žďár n. S., ÚV Mostiště",
+    "details": "Realizace 2012–2014 · rekonstrukce za provozu ÚV",
+    "category": "Ztvrzování vody"
+  },
+  {
+    "id": "p112",
+    "title": "Velkosklad a dávkování CO₂ – SČVK a.s., ÚV Meziboří",
+    "details": "Realizace 2014 · rekonstrukce za provozu ÚV",
+    "category": "Ztvrzování vody"
+  },
+  {
+    "id": "p113",
+    "title": "Dávkování CO₂ – ÚV Písek, ČEVAK a.s.",
+    "details": "Realizace 2018 · podtlakové dávkování včetně autonomního řízení",
+    "category": "Ztvrzování vody"
+  },
+  {
+    "id": "p114",
+    "title": "Dávkování CO₂ – ÚV Bedřichov, SČS a.s.",
+    "details": "Realizace 2020 · podtlakové dávkování",
+    "category": "Ztvrzování vody"
+  },
+  {
+    "id": "p115",
+    "title": "Rekonstrukce dávkování CO₂ – ÚV Mariánské Lázně, CHEVAK Cheb",
+    "details": "Realizace 2020",
+    "category": "Ztvrzování vody"
+  },
+  {
+    "id": "p116",
+    "title": "Příprava a dávkování Ca(OH)₂ – OVaK a.s., ÚV Nová Ves Ostrava",
+    "details": "Realizace 1994 · dvě linky 8% vápenného mléka, 2×650 dm³·h⁻¹ CaO, automatický provoz",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p117",
+    "title": "Příprava a dávkování Ca(OH)₂ – BVK a.s., ÚV Pisárky Brno",
+    "details": "Realizace 1994 · dvě linky 4% vápenného mléka, 2×650 dm³·h⁻¹ CaO",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p118",
+    "title": "Příprava a dávkování Ca(OH)₂ – VHS Vrchlice-Maleč a.s., ÚV Trojice Kutná Hora",
+    "details": "Realizace 1994 · tři linky 4% vápenného mléka, 3×150 dm³·h⁻¹ CaO",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p119",
+    "title": "Příprava a dávkování Ca(OH)₂ – SčVK a.s., ÚV Meziboří Litvínov",
+    "details": "Realizace 1995 · dvě linky 4% vápenného mléka, 2×150 dm³·h⁻¹ CaO",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p120",
+    "title": "Příprava a dávkování Ca(OH)₂ – SčVK a.s., ÚV Hřensko",
+    "details": "Realizace 1995 · 150 dm³·h⁻¹ CaO, dávkování 15 000 l·h⁻¹",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p121",
+    "title": "Příprava a dávkování Ca(OH)₂ – Pražské vodárny s.p., ÚV Podolí Praha",
+    "details": "Realizace 1996 · šest linek 4% vápenného mléka, 6×150 dm³·h⁻¹ CaO",
+    "imageUrl": "/assets/reference/uv-podoli.jpg",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p122",
+    "title": "Příprava Ca(OH)₂ – ČEZ Elektrárna Tisová, CHČOV",
+    "details": "Realizace 1996 · 5% vápenné mléko, 150 dm³·h⁻¹ CaO, automatický provoz od pH",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p123",
+    "title": "Příprava a dávkování Ca(OH)₂ – VOV, ÚV Švařec",
+    "details": "Realizace 1998 · dvě linky, 2×300 dm³·h⁻¹ CaO, automatický provoz od průtoku a pH",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p124",
+    "title": "Příprava Ca(OH)₂ – VaK Karlovy Vary a.s., ÚV Plavno",
+    "details": "Realizace 1997 · 150 dm³·h⁻¹ CaO, ruční provoz",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p125",
+    "title": "Příprava a dávkování Ca(OH)₂ – Vodospol Klatovy, ÚV Milence Nýrsko",
+    "details": "Realizace 1999 · dvoustupňová linka, 325 dm³·h⁻¹ CaO",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p126",
+    "title": "Příprava Ca(OH)₂ – VHS Olomouc a.s., ÚV Příkazy",
+    "details": "Realizace 2000 · FTWO jako HIP, 100 dm³·h⁻¹ CaO",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p127",
+    "title": "Příprava Ca(OH)₂ – Vodárna Plzeň a.s.",
+    "details": "Realizace 2002 · dvě linky, 2×650 dm³·h⁻¹ CaO",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p128",
+    "title": "Příprava a dávkování Ca(OH)₂ – Vodospol Klatovy, ÚV Milence Nýrsko",
+    "details": "Realizace 2002 · dvoustupňová linka, 325 dm³·h⁻¹ CaO",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p129",
+    "title": "Rekonstrukce vápenného hospodářství – VaK Břeclav a.s., ÚV Zaječí",
+    "details": "Realizace 2002 · FTWO jako GD, dvě dvoustupňové linky, 2×100 dm³·h⁻¹ CaO, pneudoprava",
+    "imageUrl": "/assets/reference/uv-zajeci-vapno.jpg",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p130",
+    "title": "Příprava Ca(OH)₂ – VHS Olomouc a.s., ÚV Příkazy",
+    "details": "Realizace 2003 · FTWO jako HIP, 100 dm³·h⁻¹ CaO",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p131",
+    "title": "Příprava Ca(OH)₂ – Aqua s.r.o. Příbram, ÚV Kozičín",
+    "details": "Realizace 2003 · dvě dvoustupňové linky, 2×100 dm³·h⁻¹ CaO",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p132",
+    "title": "Výroba a dávkování vápenného mléka – SčVK a.s., ÚV Most-Velebudice",
+    "details": "Realizace 2004 · FTWO jako GD a HIP, 100 dm³·h⁻¹ CaO, dávkování 2×2000 l·h⁻¹",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p133",
+    "title": "Rekonstrukce vápenného hospodářství – VHS Sokolovska, ÚV Horka",
+    "details": "Realizace 2004–2005 · FTWO jako GD a HIP, 2×650 dm³·h⁻¹ CaO, sycení vápenné vody, PLC a SW",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p134",
+    "title": "Výroba a dávkování vápenného mléka – SčVK a.s., ÚV Jirkov",
+    "details": "Realizace 2004 · FTWO jako HIP, dávkování 3×800 l·h⁻¹ a 2×2500 l·h⁻¹ vápenné vody",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p135",
+    "title": "Výroba a dávkování vápenného mléka – SčVK a.s., ÚV III. Mlýn",
+    "details": "Realizace 2004 · FTWO jako HIP, dávkování 4×800 l·h⁻¹",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p136",
+    "title": "Rekonstrukce vápenného hospodářství – PVS a.s., ÚV Želivka",
+    "details": "Realizace 2005–2006 · 2×1300 dm³·h⁻¹ CaO",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p137",
+    "title": "Doplnění technologie vápenného hospodářství – VOV, ÚV Švařec",
+    "details": "Realizace 2006 · rozvody a dávkování vápenné vody",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p138",
+    "title": "Výroba a dávkování vápenného mléka – CHEVAK Cheb a.s., VDJ Vojtanov",
+    "details": "Realizace 2005 · FTWO jako HIP, automatický provoz od pH",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p139",
+    "title": "Výroba a dávkování vápenného mléka – CHEVAK Cheb a.s., ČS Brtná",
+    "details": "Realizace 2006 · FTWO jako HIP, automatický provoz od pH",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p140",
+    "title": "Výroba vápenného mléka a dávkování vápenné vody – SčVK a.s., ÚV Bedřichov",
+    "details": "Realizace 2007–2008 · FTWO jako HIP a GD, dvě kompaktní linky, stavební úpravy",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p141",
+    "title": "Rekonstrukce vápenného hospodářství – SčVK a.s., ÚV Souš",
+    "details": "Realizace 2008–2010 · pneudoprava 3 sil, 3 výrobní linky, nerezový sytič, úprava ŘS",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p142",
+    "title": "Výroba a dávkování vápenného mléka – Koksovna Radlin, Polsko",
+    "details": "Realizace 2007 · 12,5% koncentrované vápenné mléko, plně automatická výroba, dodávka HW+SW",
+    "imageUrl": "/assets/reference/ref-radlin-polsko.jpg",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p143",
+    "title": "Rekonstrukce dávkování vápenné vody – SčVK a.s., ÚV Meziboří",
+    "details": "Realizace 2008",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p144",
+    "title": "Projekční dokumentace FEED – rekonstrukce VH, Petrobrazi Rumunsko",
+    "details": "Realizace 2008",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p145",
+    "title": "Výroba vápenného mléka – 1.JVS a.s., ÚV České Budějovice",
+    "details": "Realizace 2008",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p146",
+    "title": "Čerpání vápenného mléka – Vodospol s.r.o., ÚV Milence",
+    "details": "Realizace 2009",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p147",
+    "title": "Výroba a dávkování vápenného mléka – SčVK a.s., ÚV Hřensko",
+    "details": "Realizace 2009 · automatický provoz výroby a dávkování od průtoku",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p148",
+    "title": "Rekonstrukce vápenného hospodářství – SčVK a.s., ÚV Hradiště",
+    "details": "Realizace 2010 · skladování, pneudoprava, dvě linky, automatický provoz",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p149",
+    "title": "Výroba a dávkování vápenného mléka – VaK Chrudim a.s., ÚV Hamry",
+    "details": "Realizace 2010 · dodávka na klíč",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p150",
+    "title": "Výroba a dávkování vápenného mléka – CHEVAK Cheb a.s., VDJ Hrozňatov",
+    "details": "Realizace 2010 · dodávka na klíč včetně technologického vybavení VDJ",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p151",
+    "title": "Dávkování vápenného mléka – VOSS Sokolov s.r.o., ÚV Horka",
+    "details": "Realizace 2010",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p152",
+    "title": "Výroba a dávkování vápenného mléka – ČEVAK a.s., ÚV Borovany",
+    "details": "Realizace 2011",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p153",
+    "title": "Skladování, doprava, výroba a dávkování – VOSS Sokolov, ÚV Janov",
+    "details": "Realizace 2011 · venkovní kompozitové silo s dopravníky",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p154",
+    "title": "Vápenné hospodářství – VAS divize Žďár n. S., ÚV Mostiště",
+    "details": "Realizace 2012–2013 · venkovní sila, tři sytiče vápenné vody, rekonstrukce za provozu",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p155",
+    "title": "Výroba a dávkování vápenného mléka – SČVK a.s., ÚV Litvínov",
+    "details": "Realizace 2012 · dvě linky, rekonstrukce za provozu",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p156",
+    "title": "Skladování a doprava vápenného hydrátu – ČEZ Elektrárna Trmice",
+    "details": "Realizace 2012–2013 · venkovní sila s dopravníky",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p157",
+    "title": "Rekonstrukce VH – ÚV Strašice, VOSS Sokolov",
+    "details": "Realizace 2014 · doprava, výroba, dávkování, sycení, kompletní elektro a ASŘTP",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p158",
+    "title": "Skladování, doprava, výroba a dávkování – SČVK a.s., ÚV Meziboří",
+    "details": "Realizace 2014",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p159",
+    "title": "Rekonstrukce VH – ÚV Temný Důl, VaK Trutnov a.s.",
+    "details": "Realizace 2014–2015 · venkovní kompozitové silo, dodávka na klíč včetně ASŘTP",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p160",
+    "title": "Vápenné hospodářství – ÚV Příbram-Hvězdička, 1.SČV a.s.",
+    "details": "Realizace 2015–2017 · 2× venkovní sila, výroba a dávkování",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p161",
+    "title": "Vápenné hospodářství – ÚV Podhradí, SmVaK Ostrava a.s.",
+    "details": "Realizace 2015–2016 · 2× linka výroba a dávkování včetně ŘS",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p162",
+    "title": "Vápenné hospodářství – Elektrárna Ledvice, ČEZ",
+    "details": "Realizace 2016–2017 · 2× skladovací silo, 2× automatická linka",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p163",
+    "title": "Vápenné hospodářství – ÚV Písek, ČEVAK a.s.",
+    "details": "Realizace 2018 · venkovní silo, 2× linka, dva sytiče, autonomní řízení",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p164",
+    "title": "Rekonstrukce VH – ÚV Holedeč, SČVK a.s.",
+    "details": "Realizace 2019–2021 · repase sil, 2× linka, autonomní řízení",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p165",
+    "title": "Rekonstrukce VH – ÚV Monaco, VS Chrudim a.s.",
+    "details": "Realizace 2020 · provzdušňování sil, výroba a dávkování",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p166",
+    "title": "Rekonstrukce VH – ÚV Adolfovice, VAK Jeseník",
+    "details": "Realizace 2022 · dvě výrobní linky",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p167",
+    "title": "Vápenné hospodářství – Saint-Gobain ADFORS CZ s.r.o., Litomyšl",
+    "details": "Realizace 2021 · venkovní silo, doprava, výroba a dávkování",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p168",
+    "title": "Rekonstrukce VH – ÚV Leskovec n. M., VaK Bruntál a.s.",
+    "details": "Realizace 2022 · dvě linky, kompresorovna, úprava ŘS, stavební úpravy",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p169",
+    "title": "Rekonstrukce VH – ÚV Hřensko, SČS a.s. Teplice",
+    "details": "Realizace 2022 · repase dvou sil a pneudoprava",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p170",
+    "title": "Rekonstrukce VH – ÚV Hamr, Vodovod Hamr Třeboň",
+    "details": "Realizace 2022 · dvě sila, dvě linky, sytič, kompresorovna, úprava ŘS",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p171",
+    "title": "Rozšíření VH – ÚV Plzeň, Vodárna Plzeň a.s.",
+    "details": "Realizace 2023 · repase sila, výrobní linka, sycení a dávkování",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p172",
+    "title": "Rekonstrukce VH – ÚV Mariánské Lázně",
+    "details": "Realizace 2024–2025 · výrobní linky, sycení, dávkování chemikálií, stavební úpravy",
+    "category": "Výroba a dávkování vápenného mléka"
+  },
+  {
+    "id": "p173",
+    "title": "Příprava a dávkování suspenze aktivního uhlí – VHS Vrchlice-Maleč, ÚV Trojice",
+    "details": "Realizace 1995 · výkon 180 dm³·h⁻¹, ruční provoz",
+    "category": "Příprava a dávkování suspenze aktivního uhlí a dalších činidel"
+  },
+  {
+    "id": "p174",
+    "title": "Příprava a dávkování suspenze aktivního uhlí – Spolchemie a.s., ČOV Ústí n. L.",
+    "details": "Realizace 1999 · odběr z BIG-BAGů, výkon 100 dm³·h⁻¹, automatický provoz",
+    "imageUrl": "/assets/reference/ref-spolchemie-bigbag.jpg",
+    "category": "Příprava a dávkování suspenze aktivního uhlí a dalších činidel"
+  },
+  {
+    "id": "p175",
+    "title": "Dávkování granulovaného Praestolu – Pražské vodárny s.p., ÚV Podolí Praha",
+    "details": "Realizace 1998 · suchý dávkovač, výkon 10 kg·h⁻¹",
+    "category": "Příprava a dávkování suspenze aktivního uhlí a dalších činidel"
+  },
+  {
+    "id": "p176",
+    "title": "Výroba a dávkování roztoku KMnO₄ – SmVaK a.s., ÚV Podhradí u Vítkova",
+    "details": "Realizace 1999 · výkon 120 kg·h⁻¹ KMnO₄, dávkování 1% roztoku 450 l·h⁻¹",
+    "category": "Příprava a dávkování suspenze aktivního uhlí a dalších činidel"
+  },
+  {
+    "id": "p177",
+    "title": "Rekonstrukce VH – VaK Břeclav a.s., ÚV Zaječí",
+    "details": "Realizace 2002 · FTWO jako GD, pneudoprava, kompresorovna 2×6 m³·min⁻¹",
+    "category": "Provzdušňování sil, pneumatická doprava, stlačený vzduch"
+  },
+  {
+    "id": "p178",
+    "title": "Vymrazovací sušení stlačeného vzduchu – VHS Sokolov, ÚV Horka",
+    "details": "Realizace 2002",
+    "category": "Provzdušňování sil, pneumatická doprava, stlačený vzduch"
+  },
+  {
+    "id": "p179",
+    "title": "Adsorpční sušení stlačeného vzduchu – Vodospol Klatovy, ÚV Milence",
+    "details": "Realizace 2003",
+    "category": "Provzdušňování sil, pneumatická doprava, stlačený vzduch"
+  },
+  {
+    "id": "p180",
+    "title": "Rekonstrukce VH – VHS Sokolovska, ÚV Horka",
+    "details": "Realizace 2004–2005 · FTWO jako GD a HIP, kompresorovna, PLC a SW",
+    "category": "Provzdušňování sil, pneumatická doprava, stlačený vzduch"
+  },
+  {
+    "id": "p181",
+    "title": "Rekonstrukce VH – SčVK a.s., ÚV Souš",
+    "details": "Realizace 2008–2010 · pneudoprava a provzdušňování 3 sil, kompresorovna",
+    "category": "Provzdušňování sil, pneumatická doprava, stlačený vzduch"
+  },
+  {
+    "id": "p182",
+    "title": "Skladování a doprava – VOSS Sokolov, ÚV Janov",
+    "details": "Realizace 2011 · venkovní kompozitové silo",
+    "category": "Provzdušňování sil, pneumatická doprava, stlačený vzduch"
+  },
+  {
+    "id": "p183",
+    "title": "Skladování a doprava – ČEZ Elektrárna Trmice",
+    "details": "Realizace 2012–2013 · pneudoprava 2 venkovních sil",
+    "category": "Provzdušňování sil, pneumatická doprava, stlačený vzduch"
+  },
+  {
+    "id": "p184",
+    "title": "Skladování a doprava – VAS divize Žďár n. S., ÚV Mostiště",
+    "details": "Realizace 2012–2013 · venkovní sila, rekonstrukce za provozu",
+    "category": "Provzdušňování sil, pneumatická doprava, stlačený vzduch"
+  },
+  {
+    "id": "p185",
+    "title": "Rekonstrukce skladování a doprava – SČVK a.s., ÚV Meziboří",
+    "details": "Realizace 2014",
+    "category": "Provzdušňování sil, pneumatická doprava, stlačený vzduch"
+  },
+  {
+    "id": "p186",
+    "title": "Skladování a doprava – ÚV Temný Důl, VaK Trutnov a.s.",
+    "details": "Realizace 2014–2015 · venkovní kompozitové silo",
+    "category": "Provzdušňování sil, pneumatická doprava, stlačený vzduch"
+  },
+  {
+    "id": "p187",
+    "title": "Vápenné hospodářství – Elektrárna Ledvice, ČEZ",
+    "details": "Realizace 2016–2017 · 2× skladovací silo",
+    "category": "Provzdušňování sil, pneumatická doprava, stlačený vzduch"
+  },
+  {
+    "id": "p188",
+    "title": "Repase sil – ÚV Holedeč, SČVK a.s.",
+    "details": "Realizace 2019–2021 · repase venkovních sil včetně provzdušňování",
+    "category": "Provzdušňování sil, pneumatická doprava, stlačený vzduch"
+  },
+  {
+    "id": "p189",
+    "title": "Rekonstrukce provzdušnění sil – ÚV Monaco, VS Chrudim",
+    "details": "Realizace 2020 · betonové sila, včetně sušení",
+    "category": "Provzdušňování sil, pneumatická doprava, stlačený vzduch"
+  },
+  {
+    "id": "p190",
+    "title": "Provzdušnění sil – ÚV Hamr, Vodovod Hamr Třeboň",
+    "details": "Realizace 2022 · venkovní ocelové sila, včetně sušení",
+    "category": "Provzdušňování sil, pneumatická doprava, stlačený vzduch"
+  },
+  {
+    "id": "p191",
+    "title": "Výhradní záruční a pozáruční servis technologických celků Wallace & Tiernan",
+    "details": "Servis zařízení USF W+T, Siemens Water Technology, Evoqua Wallace & Tiernan realizovaných před rokem 1989. Pravidelné dlouhodobé pozáruční servisy na většinu dodávaných zařízení. Záruka od 1 roku až do 5 let od uvedení do provozu.",
+    "category": "Záruční a pozáruční servis"
+  },
+  {
+    "id": "p1771872656396-lgp7",
+    "title": "test",
+    "details": "test",
+    "category": "Jiné aplikace",
+    "imageUrl": "https://raw.githubusercontent.com/janik-technika/ftwo/main/public/content/uploads/references/projekce/1771872705923-7f8047283f1a5bb1a1365390648d0784.jpg"
+  }
+]
